@@ -43,7 +43,7 @@ const Footer = () => {
             </a>
             <a 
                 aria-label="linkedin"
-                href="https://www.linkedin.com/in/kunalukey/"
+                href="https://www.linkedin.com/in/rohit-pal-58416b222/"
                 target="_blank" rel="noreferrer"
                 className="hover:text-white"
                 >
